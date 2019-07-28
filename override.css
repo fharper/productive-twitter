@@ -9,10 +9,6 @@ div[aria-label="Timeline: Trending now"] {
   display: none;
 }
 
-a[aria-label="Tweet"] {
-  display: none;
-}
-
 aside[aria-label="Who to follow"] {
   opacity: 0.6;
 }
